@@ -10,7 +10,7 @@
 
 Analizzare un dataset sul comportamento d'acquisto dei clienti per individuare pattern nascosti, segmentare il pubblico e costruire modelli predittivi utili a comprendere le future scelte di acquisto.
 
-## Cosa ho fatto
+## Cosa è stato fatto
 
 - raccolto e pulito il dataset, controllando valori mancanti e inconsistenti;
 - eseguito un'analisi esplorativa dei dati per individuare trend e relazioni;
